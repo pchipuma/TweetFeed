@@ -3,3 +3,6 @@ C:\Test\TweeterFeed\bin\Release\TweeterFeed.exe
 C:\Test\TweeterFeed\bin\Release\TweeterFeed.pdb
 C:\Test\TweeterFeed\obj\Release\TweeterFeed.exe
 C:\Test\TweeterFeed\obj\Release\TweeterFeed.pdb
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\bin\Release\TweeterFeed.exe.config
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\obj\Release\TweeterFeed.exe
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\obj\Release\TweeterFeed.pdb

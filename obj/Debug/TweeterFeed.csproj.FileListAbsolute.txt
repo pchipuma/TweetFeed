@@ -9,3 +9,6 @@ C:\Test\TweeterFeed\obj\Debug\TweeterFeed.pdb
 C:\Test\TweeterFeed\bin\Debug\TweeterFeed.exe
 C:\Test\TweeterFeed\bin\Debug\TweeterFeed.pdb
 C:\Test\TweeterFeed\obj\Debug\TweeterFeed.csprojResolveAssemblyReference.cache
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\bin\Debug\TweeterFeed.exe.config
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\obj\Debug\TweeterFeed.exe
+J:\Personal\Career\Percy\Alan Gray\TweetFeed\obj\Debug\TweeterFeed.pdb
