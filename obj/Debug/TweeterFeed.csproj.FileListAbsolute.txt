@@ -1,0 +1,11 @@
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\TweeterFeed\bin\Debug\TweeterFeed.exe.config
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\TweeterFeed\bin\Debug\TweeterFeed.exe
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\TweeterFeed\bin\Debug\TweeterFeed.pdb
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\TweeterFeed\obj\Debug\TweeterFeed.exe
+C:\Users\chipuma.percy\AppData\Local\Temporary Projects\TweeterFeed\obj\Debug\TweeterFeed.pdb
+C:\Test\TweeterFeed\bin\Debug\TweeterFeed.exe.config
+C:\Test\TweeterFeed\obj\Debug\TweeterFeed.exe
+C:\Test\TweeterFeed\obj\Debug\TweeterFeed.pdb
+C:\Test\TweeterFeed\bin\Debug\TweeterFeed.exe
+C:\Test\TweeterFeed\bin\Debug\TweeterFeed.pdb
+C:\Test\TweeterFeed\obj\Debug\TweeterFeed.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Test\TweeterFeed\bin\Release\TweeterFeed.exe.config
+C:\Test\TweeterFeed\bin\Release\TweeterFeed.exe
+C:\Test\TweeterFeed\bin\Release\TweeterFeed.pdb
+C:\Test\TweeterFeed\obj\Release\TweeterFeed.exe
+C:\Test\TweeterFeed\obj\Release\TweeterFeed.pdb
